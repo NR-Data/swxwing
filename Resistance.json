@@ -1,0 +1,102 @@
+{
+  "catalogue": {
+    "name": "Resistance",
+    "id": "fe65-b6af-b74a-3b62",
+    "authorContact": "Dr Lucky on the BGG or FFG forums",
+    "authorName": "Dr Lucky",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "3e41-71da-1915-ca40",
+    "gameSystemRevision": 2,
+    "library": false,
+    "revision": 3,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "entryLinks": [
+      {"name": "•Vennie", "id": "8c7d-24a6-372e-1327", "collective": false, "hidden": false, "targetId": "06c5-f58b-7759-5dc5", "type": "selectionEntry"},
+      {"name": "•Finch Dallow", "id": "2d5b-73d8-14c8-b0b6", "collective": false, "hidden": false, "targetId": "8f90-a32f-d406-78f9", "type": "selectionEntry"},
+      {"name": "•Edon Kappehl", "id": "aa89-6c45-1e9a-828c", "collective": false, "hidden": false, "targetId": "77d3-13ab-c2f8-0d99", "type": "selectionEntry"},
+      {"name": "•Cat", "id": "518c-7503-4958-5694", "collective": false, "hidden": false, "targetId": "001a-e683-ef23-d863", "type": "selectionEntry"},
+      {"name": "•Ben Teene", "id": "a3d0-c4ca-b159-af3f", "collective": false, "hidden": false, "targetId": "7233-ab33-784b-452b", "type": "selectionEntry"},
+      {
+        "name": "Cobalt Squadron Bomber",
+        "id": "719d-cfd2-682a-8d20",
+        "collective": false,
+        "hidden": false,
+        "targetId": "13c6-e7d4-be72-ed15",
+        "type": "selectionEntry"
+      },
+      {"name": "•Temmin Wexley", "id": "2ea8-b4bc-afc5-8bc8", "collective": false, "hidden": false, "targetId": "ca47-cd45-7cdb-1d57", "type": "selectionEntry"},
+      {"name": "•Poe Dameron", "id": "f7d0-071f-c5fe-9540", "collective": false, "hidden": false, "targetId": "6e2b-21c1-30f7-8495", "type": "selectionEntry"},
+      {"name": "•Nien Nunb", "id": "3edf-9dcf-ccc7-0c45", "collective": false, "hidden": false, "targetId": "0d7b-6611-567e-6377", "type": "selectionEntry"},
+      {"name": "•Lieutenant Bastian", "id": "5496-d1df-424e-7498", "collective": false, "hidden": false, "targetId": "c4b4-31b5-a84b-a567", "type": "selectionEntry"},
+      {"name": "•Kare Kun", "id": "77c8-a410-45d6-7f28", "collective": false, "hidden": false, "targetId": "ae66-30b6-e865-b5af", "type": "selectionEntry"},
+      {"name": "•Joph Seastriker", "id": "2d4e-ddc4-9b17-206f", "collective": false, "hidden": false, "targetId": "ace0-800b-ac33-1729", "type": "selectionEntry"},
+      {"name": "•Jessika Pava", "id": "d3f1-cfcb-d09b-701b", "collective": false, "hidden": false, "targetId": "6b07-32a6-cfcb-8d20", "type": "selectionEntry"},
+      {"name": "•Jaycris Tubbs", "id": "536d-71c6-0225-42a2", "collective": false, "hidden": false, "targetId": "269d-1744-f665-678e", "type": "selectionEntry"},
+      {"name": "•Ello Asty", "id": "ea71-5100-2621-cc06", "collective": false, "hidden": false, "targetId": "6c38-d8b3-1b66-07af", "type": "selectionEntry"},
+      {"name": "Red Squadron Expert", "id": "cace-ae9c-462e-7090", "collective": false, "hidden": false, "targetId": "90ee-4be3-5f4c-3c3c", "type": "selectionEntry"},
+      {"name": "Blue Squadron Rookie", "id": "ba32-2f73-e55d-7ab1", "collective": false, "hidden": false, "targetId": "551e-ee1e-0864-b229", "type": "selectionEntry"},
+      {"name": "Black Squadron Ace", "id": "b9fc-e3c2-d6eb-268b", "collective": false, "hidden": false, "targetId": "c124-9730-b65c-1d6a", "type": "selectionEntry"},
+      {"name": "•Zari Bangel", "id": "8c13-52c0-38be-4b84", "collective": false, "hidden": false, "targetId": "5eff-45a0-ea24-5cdb", "type": "selectionEntry"},
+      {"name": "•Tallissan Lintra", "id": "b7e8-f459-166f-83a9", "collective": false, "hidden": false, "targetId": "48c9-050f-7dae-f857", "type": "selectionEntry"},
+      {"name": "•L'ulo L'ampar", "id": "ea7b-71b2-226e-0296", "collective": false, "hidden": false, "targetId": "c73a-c9e8-99a2-1f04", "type": "selectionEntry"},
+      {"name": "•Greer Sonnel", "id": "4345-0c59-4ee3-3624", "collective": false, "hidden": false, "targetId": "5a77-9d8b-2536-8617", "type": "selectionEntry"},
+      {
+        "name": "Green Squadron Expert",
+        "id": "096b-5f30-4041-54d6",
+        "collective": false,
+        "hidden": false,
+        "targetId": "e062-b047-40b2-11d5",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Blue Squadron Recruit",
+        "id": "817a-d593-6672-e069",
+        "collective": false,
+        "hidden": false,
+        "targetId": "b9d1-f711-e4e0-4e8a",
+        "type": "selectionEntry"
+      },
+      {"name": "•Rey", "id": "1c51-637f-dfbe-f20d", "collective": false, "hidden": false, "targetId": "f2f4-768d-855a-0d46", "type": "selectionEntry"},
+      {"name": "•Han Solo", "id": "b1ce-418b-52f8-7dc4", "collective": false, "hidden": false, "targetId": "fbf0-9bc4-cc4b-575c", "type": "selectionEntry"},
+      {"name": "•Chewbacca", "id": "133f-1833-84ca-e394", "collective": false, "hidden": false, "targetId": "04cc-6c35-ad3f-0d85", "type": "selectionEntry"},
+      {
+        "name": "Resistance Sympathizer",
+        "id": "73a3-54f3-3460-3402",
+        "collective": false,
+        "hidden": false,
+        "targetId": "6454-b445-5b0e-7c89",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RT 1 - Logistics Division Pilot",
+        "id": "6a50-3a58-693b-c8c4",
+        "collective": false,
+        "hidden": false,
+        "targetId": "5163-ae0c-96b9-d632",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RT 2 - •Nodin Chavdri",
+        "id": "1be9-4a0c-a288-4fb9",
+        "collective": false,
+        "hidden": false,
+        "targetId": "71b9-1bf9-23b1-cffc",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RT 3 - •Pammich Nerro Goode",
+        "id": "86b9-97b8-b6d4-ce1f",
+        "collective": false,
+        "hidden": false,
+        "targetId": "b6fa-be90-fb05-0c9f",
+        "type": "selectionEntry"
+      },
+      {"name": "RT 4 - •Cova Nell", "id": "e36a-3478-c9c0-9cf9", "collective": false, "hidden": false, "targetId": "f234-a8d3-df51-0f4c", "type": "selectionEntry"},
+      {"name": "Pod 1 - •Vi Moradi", "id": "edcd-91b4-8f7e-2c19", "collective": false, "hidden": false, "targetId": "f926-4822-4241-58b8", "type": "selectionEntry"},
+      {"name": "Pod 2 - •Finn", "id": "cea9-412c-db13-9096", "collective": false, "hidden": false, "targetId": "b1e0-a8fc-e421-093c", "type": "selectionEntry"},
+      {"name": "Pod 3 - •BB-8", "id": "f45d-8ac4-a503-112b", "collective": false, "hidden": false, "targetId": "9767-8ec5-4288-3494", "type": "selectionEntry"},
+      {"name": "Pod 3 - •Rose Tico", "id": "1d6f-0f53-7cdb-4d5c", "collective": false, "hidden": false, "targetId": "5e85-37de-9ff1-ef3d", "type": "selectionEntry"}
+    ]
+  }
+}
