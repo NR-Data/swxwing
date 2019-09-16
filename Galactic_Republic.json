@@ -1,0 +1,341 @@
+{
+  "catalogue": {
+    "name": "Galactic Republic",
+    "id": "d137-8fb9-efcd-c317",
+    "authorContact": "Dr Lucky on the BGG or FFG forums",
+    "authorName": "Dr Lucky",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "3e41-71da-1915-ca40",
+    "gameSystemRevision": 5,
+    "library": false,
+    "revision": 4,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "entryLinks": [
+      {
+        "name": "RD 6 - •Anakin Skywalker",
+        "id": "76e8-425c-f31f-875e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "ee4a-cfc9-e7ec-e4ff",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RD 5 - •Obi-Wan Kenobi",
+        "id": "00b8-fa67-4fb0-9c9a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3cc9-b3a1-5541-e2e7",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RD 5 - •Plo Koon",
+        "id": "fa5c-8061-1f62-0da7",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4744-402c-01fe-bee3",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RD 3 - Jedi Knight",
+        "id": "49fd-2ea8-7107-a7d3",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "1fd9-62db-05e2-8737",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RD 3 - •Ahsoka Tano",
+        "id": "7858-a9a2-3e6a-c25b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "a531-0c9c-93e6-0053",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RD 4 - •Barriss Offee",
+        "id": "2e7a-dfbd-2adf-a7b1",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "8294-0d37-f471-161e",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RD 4 - •Luminara Unduli",
+        "id": "31a8-ca53-b002-14c8",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d35b-74b9-597a-2811",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RD 4 - •Mace Windu",
+        "id": "5a03-ba2d-b46b-b74e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "ba6d-b7ee-e011-6574",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RD 4 - •Saesee Tiin",
+        "id": "0952-5608-1486-f557",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "0a38-797e-45b3-dc30",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RA 2 - 104th Battalion Pilot",
+        "id": "4acd-1f51-ae4f-362b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "4274-424d-7d41-0b02",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RA 3 - Squad Seven Veteran",
+        "id": "ba96-8829-faa8-cbfb",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "7bd8-561c-2300-2d42",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RA 3 - •\"Jag\"",
+        "id": "ba67-ae88-64f9-69da",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "65b0-7f51-2549-2a3a",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RA 3 - •\"Sinker\"",
+        "id": "e6ae-5b6a-cdca-d814",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5cd6-535d-f0e6-7b5f",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RA 4 - •\"Wolffe\"",
+        "id": "aff6-d2a8-8c8a-96a2",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "0d8b-2aaf-8bb2-75b5",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RA 5 - •\"Odd Ball\"",
+        "id": "2b3d-52a7-699e-30aa",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "e9dc-c7ce-7c97-98cf",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RV 2 - Gold Squadron Trooper",
+        "id": "3296-a222-5dc6-87ff",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "1581-160c-283a-6db8",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RV 2 - •\"Tucker\"",
+        "id": "25f8-c86c-ff28-1ad8",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "dd3f-a9c6-006c-3161",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RV 3 - Blue Squadron Protector",
+        "id": "2e0b-3d1b-33f3-b14a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "71d1-52bd-d362-49dc",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RV 3 - •\"Axe\"",
+        "id": "953e-9df5-71be-36e2",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "27b3-122e-5973-c8a4",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RV 3 - •\"Swoop\"",
+        "id": "3b51-1966-b28e-2dd7",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "6e80-22c7-966b-5f30",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RV 4 - •\"Kickback\"",
+        "id": "661c-ce70-4ff5-41c4",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3af0-332e-427b-55be",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "RV 5 - •\"Odd Ball\"",
+        "id": "8394-a36c-ea6e-116b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "cf8b-52b1-2c0e-215b",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "N1 1 - ••Naboo Handmaiden",
+        "id": "a5ee-7540-1e74-0a5f",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "278e-ddaf-aec4-ab49",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "N1 2 - Bravo Flight Officer",
+        "id": "f0d1-fd01-adcc-9a38",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "a289-e628-6ce0-f500",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "N1 3 - •Dineé Ellberger",
+        "id": "efc6-886d-c15c-9604",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "62ab-876d-ff1b-56f9",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "N1 4 - •Anakin Skywalker",
+        "id": "53e2-6d59-b7f2-6aae",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "b7b7-5ff6-4c45-a167",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "N1 4 - •Padmé Amidala",
+        "id": "3c31-bbc5-0a22-7d7d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c145-785e-84ab-5be5",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "N1 5 - •Ric Olié",
+        "id": "6f19-b573-6900-eefb",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "2eef-b37e-9133-b3e9",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Y 2 - Red Squadron Bomber",
+        "id": "5a37-0963-2375-2c37",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "23dd-f9b6-c026-9c59",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Y 2 - •\"Goji\"",
+        "id": "1ca6-787f-fa06-e06d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "bfdc-51e7-75e8-afac",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Y 2 - •R2-D2",
+        "id": "9b16-a991-f743-25b4",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "f18a-cfe6-9dbb-c860",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Y 3 - Shadow Squadron Veteran",
+        "id": "3a9a-53f5-bb19-7122",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "134a-5d54-c35c-08cf",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Y 3 - •\"Broadside\"",
+        "id": "b322-d776-be49-7862",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "ce92-41d8-54af-accb",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Y 4 - •\"Matchstick\"",
+        "id": "41f7-daee-e9e3-55b7",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "8e07-b291-4278-a6a0",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Y 5 - •\"Odd Ball\"",
+        "id": "e5de-dfe7-ed1f-1385",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "9d5c-6948-cf25-ad4b",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Y 6 - •Anakin Skywalker",
+        "id": "2aa0-8768-4701-1b1a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "05d5-67f4-728b-9d1b",
+        "type": "selectionEntry"
+      }
+    ]
+  }
+}
